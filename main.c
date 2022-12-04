@@ -5,5 +5,6 @@ int main(void)
 
     printf("HelloWorld!\n");
     printf("It's version 1\n");
+    printf("It's github\n");
 
 }
